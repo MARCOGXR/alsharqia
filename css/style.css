@@ -651,6 +651,9 @@ transform:scale(1.2);
     .home .content span{
         font-size: 2.5rem;
     }
+    .footer .credit{
+        font-size: 1.7rem;
+    }
 
     .icons-container .icons h3{
         font-size: 2rem;
