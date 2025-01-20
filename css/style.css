@@ -228,10 +228,10 @@ header .fa-bars{
 }
 
 .about .row .video-container video{
-    width:100%;
-    border:1.5rem solid #fff;
-    border-radius: .5rem;
-    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    width: 100%;
+    border: 1.5rem solid #fff;
+    border-radius: 2.5rem;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
     height: 100%;
     object-fit: cover;
 }
@@ -648,8 +648,8 @@ transform:scale(1.2);
         font-size: 5rem;
     }
 
-    .home .content span{
-        font-size: 2.5rem;
+    .footer .content span{
+        font-size: 2.3rem;
     }
     .footer .credit{
         font-size: 1.7rem;
@@ -668,7 +668,7 @@ transform:scale(1.2);
 @media (max-width:450px){
     
     html{
-        font-size: 50%;
+        font-size: 42%;
     }
 
     .heading{
